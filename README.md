@@ -13,3 +13,5 @@ While creating the visuals for this project i was tasked with showing and repres
 * The sum of growth by metro
 
 Having these visual representations of our data will give us the desired insights we need to make the decisions needed going forward.  
+
+![POWER-BI DIAGRAM  INC-5000 DATA 2022-12-15 125845](https://user-images.githubusercontent.com/115784417/207865466-4b907014-832c-41de-b8bf-68b8a3e43876.png)
