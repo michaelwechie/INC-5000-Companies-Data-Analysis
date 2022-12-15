@@ -13,3 +13,6 @@ While creating the visuals for this project i was tasked with showing and repres
 * The sum of growth by metro
 
 Having these visual representations of our data will give us the desired insights we need to make the decisions needed going forward.  
+
+![POWER-BI DIAGRAM Hollywood data ANALYSIS]
+(https://user-images.githubusercontent.com/115784417/207864019-02957083-db1b-4eb8-8e46-010f63fdb4a5.png)
