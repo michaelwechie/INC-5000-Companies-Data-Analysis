@@ -32,3 +32,4 @@ Having these visual representations of our data will give us the desired insight
 https://app.powerbi.com/groups/me/reports/cbb35472-0fea-4a74-9ef1-39ce4e012757
 
 ![POWER-BI DIAGRAM  INC-5000 DATA 2022-12-15 125845](https://user-images.githubusercontent.com/115784417/207865466-4b907014-832c-41de-b8bf-68b8a3e43876.png)
+![inc 5000 ind Screenshot 2022-12-28 112822](https://user-images.githubusercontent.com/115784417/209805789-676c9715-b262-4f04-93ed-224215725c01.png)
