@@ -31,4 +31,4 @@ I found the metro that has had the most growth has been the Los Angeles metro...
 Having these visual representations of our data will give us the desired insights we need to make the decisions needed going forward.  
 https://app.powerbi.com/groups/me/reports/cbb35472-0fea-4a74-9ef1-39ce4e012757
 
-![inc 5000 ind Screenshot 2022-12-28 112822](https://user-images.githubusercontent.com/115784417/209973509-8f626cdb-d7cf-456a-8466-14c7811cab8b.png)
+![inc 5000 ind Screenshot 2022-12-28 112822](https://user-images.githubusercontent.com/115784417/209981353-015d49e8-a738-4f24-8cb4-8d89809d7ff3.png
